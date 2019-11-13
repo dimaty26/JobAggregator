@@ -1,2 +1,2 @@
 # JobAggregator
-Application allows you to looking for a job using most popular websites like hh.com
+Application allows you to look for a job using most popular websites like hh.com
